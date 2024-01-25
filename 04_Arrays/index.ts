@@ -1,1 +1,2 @@
-const arr = [12,24,36,48];
+const arr: number[] = [];
+console.log(arr);
